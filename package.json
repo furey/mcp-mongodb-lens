@@ -11,6 +11,7 @@
   },
   "files": [
     "mongodb-lens.js",
+    "src/",
     "package.json",
     "README.md",
     "LICENSE"
